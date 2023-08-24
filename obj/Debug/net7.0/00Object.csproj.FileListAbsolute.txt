@@ -1,0 +1,14 @@
+C:\Users\alext\OneDrive\Desktop\ObjectClass\00Object\obj\Debug\net7.0\00Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alext\OneDrive\Desktop\ObjectClass\00Object\obj\Debug\net7.0\00Object.AssemblyInfoInputs.cache
+C:\Users\alext\OneDrive\Desktop\ObjectClass\00Object\obj\Debug\net7.0\00Object.AssemblyInfo.cs
+C:\Users\alext\OneDrive\Desktop\ObjectClass\00Object\obj\Debug\net7.0\00Object.csproj.CoreCompileInputs.cache
+C:\Users\alext\OneDrive\Desktop\ObjectClass\00Object\bin\Debug\net7.0\00Object.exe
+C:\Users\alext\OneDrive\Desktop\ObjectClass\00Object\bin\Debug\net7.0\00Object.deps.json
+C:\Users\alext\OneDrive\Desktop\ObjectClass\00Object\bin\Debug\net7.0\00Object.runtimeconfig.json
+C:\Users\alext\OneDrive\Desktop\ObjectClass\00Object\bin\Debug\net7.0\00Object.dll
+C:\Users\alext\OneDrive\Desktop\ObjectClass\00Object\bin\Debug\net7.0\00Object.pdb
+C:\Users\alext\OneDrive\Desktop\ObjectClass\00Object\obj\Debug\net7.0\00Object.dll
+C:\Users\alext\OneDrive\Desktop\ObjectClass\00Object\obj\Debug\net7.0\refint\00Object.dll
+C:\Users\alext\OneDrive\Desktop\ObjectClass\00Object\obj\Debug\net7.0\00Object.pdb
+C:\Users\alext\OneDrive\Desktop\ObjectClass\00Object\obj\Debug\net7.0\00Object.genruntimeconfig.cache
+C:\Users\alext\OneDrive\Desktop\ObjectClass\00Object\obj\Debug\net7.0\ref\00Object.dll
