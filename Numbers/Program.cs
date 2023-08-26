@@ -3,21 +3,26 @@
 // string? test = Console.ReadLine();
 // Console.WriteLine($"{test}");
 
-using System.Linq.Expressions;
-
-Console.WriteLine("Please enter an number: ");
-int usernumber = int.Parse(Console.ReadLine());
-//make sum a double because you can't add a int and a double xD
-int sum = 0;
-
-
-for (int i = 0; i < usernumber; i++)
+while(true)
 {
-    
-    var numbers = int.Parse(Console.ReadLine());
-    sum += numbers;
+try
+{
+int sum;
 
+ Console.WriteLine("Please enter a number: ");
+
+ var firstNumber = int.Parse(Console.ReadLine());
+
+ Console.WriteLine("Please enter a second number: ");
+ var secondNumber = int.Parse(Console.ReadLine());
+
+sum = firstNumber + secondNumber;
+Console.WriteLine("The sum of the entered numbers is: " + sum);
+break;
 
 }
-
-Console.WriteLine("The sum of the entered numbers is: " + sum);
+catch(Exception e)
+{
+    Console.WriteLine("Please try again " + e.Message);
+}
+}
